@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Eug%C3%A8ne_Viollet-le-Duc
     - http://fr.wikipedia.org/wiki/Eug%C3%A8ne_Viollet-le-Duc
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18940#La-cit--de-Carcassonne
 gutenberg_bookshelf:
 - FR Villes
 - FR Sciences et Techniques
